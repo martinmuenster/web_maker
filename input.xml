@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <member id="1" value="Person 1">
+        <network>Person 2</network>
+        <network>Person 3</network>
+        <network>Person 6</network>
+    </member>
+    <member id="2" value="Person 2">
+        <network>Person 4</network>
+        <network>Person 3</network>
+    </member>
+    <member id="3" value="Person 3">
+        <network>Person 4</network>
+        <network>Person 1</network>
+    </member>
+    <member id="4" value="Person 4">
+        <network>Person 5</network>
+    </member>
+    <member id="5" value="Person 5">
+        <network>Person 4</network>
+    </member>
+    <member id="6" value="Person 6">
+        <network>Person 1</network>
+    </member>
+    <member id="7" value="Person 7">
+        <network>Person 1</network>
+    </member>
+    <member id="8" value="Person 8">
+        <network>Person 2</network>
+        <network>Person 1</network>
+    </member>
+    <member id="9" value="Person 9">
+        <network>Person 4</network>
+        <network>Person 6</network>
+    </member>
+    <member id="10" value="Person 10">
+        <network>Person 7</network>
+        <network>Person 1</network>
+    </member>
+    <member id="11" value="Person 11">
+        <network>Person 5</network>
+    </member>
+        <member id="12" value="Person 12">
+        <network>Person 8</network>
+    </member>
+        <member id="13" value="Person 13">
+        <network>Person 12</network>
+    </member>
+        <member id="14" value="Person 14">
+        <network>Person 13</network>
+    </member>
+</root>
